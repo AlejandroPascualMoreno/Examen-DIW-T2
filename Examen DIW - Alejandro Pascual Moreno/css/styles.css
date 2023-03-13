@@ -1,0 +1,13 @@
+.rutas {
+    overflow-y: scroll;
+}
+
+table, td, tr{
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 5%;
+    text-align: center;
+}
+td {
+  padding: 15px;
+}
